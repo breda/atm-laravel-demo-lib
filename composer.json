@@ -1,0 +1,18 @@
+{
+    "name": "breda/atm-latest",
+    "description": "Demo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bouchaala Reda",
+            "email": "bouchaala.reda@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/yaml": "^4.3"
+    },
+    "autoload": {
+        "psr-4": { "ATM\\": "src" }
+    }
+}

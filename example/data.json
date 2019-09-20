@@ -1,0 +1,1015 @@
+{
+  "title": "Algiers Tech Meetup",
+  "description": "Algiers Tech Meetup Website, an event-driven community about software, web and mobile technologies. Meetups are held in Algiers around a given topic related to programming.",
+  "keywords": "Developer, meetup, event, technology, programming, JavaScript, software development, Tech, Algiers, Algeria",
+  "links": {
+    "github": {
+      "icon": "github",
+      "url": "https://github.com/algeriatech"
+    },
+    "slideshare": {
+      "icon": "slideshare",
+      "url": "http://www.slideshare.net/algiersmeetup"
+    },
+    "forum": {
+      "icon": "envelope",
+      "url": "https://groups.google.com/forum/#!forum/algiers-meetup"
+    },
+    "twitter": {
+      "icon": "twitter",
+      "url": "https://twitter.com/algeria_tech"
+    },
+    "flickr": {
+      "icon": "flickr",
+      "url": "https://www.flickr.com/photos/136845461@N05/"
+    },
+    "slack": {
+      "icon": "slack",
+      "url": "https://algeriatech.now.sh/"
+    }
+  },
+  "talkProposalForm": "https://goo.gl/V4w6c1",
+  "twitter": "algeria_tech",
+  "images": [
+    "algiers-meetup-1.jpg",
+    "algiers-meetup-2.jpg"
+  ],
+  "meetups": [
+    {
+      "title": "Laravel, the journey",
+      "location": "Sylabs, Algiers",
+      "date": "September 21st 2019",
+      "current": true,
+      "presentations": {
+        "presentation_1": {
+          "title": "Vue in Laravel",
+          "level": "Beginner",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Kouceyla Hadji",
+              "link": "https://dz.linkedin.com/in/kouceyla-hadji-908b3134",
+              "position": "Consultant, Trainer and Freelancer",
+              "photo": "meetups/speakers/kouceyla_hadji.jpg"
+            }
+          }
+        },
+        "presentation_2": {
+          "title": "How to cook a healthy API with Laravel",
+          "level": "Beginner",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Abdelmounaam Benhouria",
+              "link": "https://twitter.com/yomonaam",
+              "position": "Co-founder of Brainiac.dz",
+              "photo": "meetups/speakers/abdelmounaam-benhouria.jpg"
+            }
+          }
+        },
+        "presentation_3": {
+          "title": "Package Development",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Reda Bouchaala",
+              "link": "https://www.linkedin.com/in/bouchaala-reda",
+              "position": "Senior Backend Engenier",
+              "photo": "meetups/speakers/reda_bouchaala.jpg"
+            }
+          }
+        },
+        "presentation_4": {
+          "title": "Testing Laravel",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Youghourta Benali",
+              "link": "https://www.linkedin.com/in/youghourta",
+              "position": "Back-end developer",
+              "photo": "meetups/speakers/youghourta_benali.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Java & Related Technologies",
+      "location": "Sylabs, Algiers",
+      "date": "January 27th 2018",
+      "current": false,
+      "presentations": {
+        "presentation_1": {
+          "title": "What's new in Java 9",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Cherif Yazid",
+              "link": "https://twitter.com/cherif_yaz",
+              "position": "Software Engineer, JavaEE Developer",
+              "photo": "meetups/speakers/yazid_cherif.png"
+            }
+          }
+        },
+        "presentation_2": {
+          "title": "Java Entreprise Edition",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Mohamed Guezil",
+              "link": "https://www.linkedin.com/in/mohamed-guezil-77466263/",
+              "position": "Ingenieur conception et developpemnt SI at Elit-Sonelgaz",
+              "photo": "meetups/speakers/mohamed_guezil.jpg"
+            }
+          }
+        },
+        "presentation_3": {
+          "title": "Think Functional and Reactive in Programming with Java",
+          "level": "Advanced",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Bilal Khiat",
+              "link": "https://www.linkedin.com/in/bilal-khiat-6a826920/",
+              "position": "Oracle Certified Expert Specialist Java & Fusion Middleware",
+              "photo": "meetups/speakers/bilal_khiat.jpg"
+            }
+          }
+        },
+        "presentation_4": {
+          "title": "Eclipse MicroProfile - Java Enterprise for a microservices architecture",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Hocine Bekkouche",
+              "link": "https://twitter.com/bek_hocine",
+              "position": "Team leader & Analyste Developer at IconSoftware",
+              "photo": "meetups/speakers/hocine_bekkouche.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Business Intelligence Or BIG DATA?",
+      "location": "Sylabs, Algiers",
+      "date": "April 29th 2017",
+      "presentations": {
+        "presentation_1": {
+          "title": "La Business Intelligence, un domaine à découvrir",
+          "level": "Beginner",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Dihia Lanasri",
+              "link": "https://www.linkedin.com/in/dihia-lanasri-b584818a",
+              "position": "Business Intelligence Engineer chez ANEM",
+              "photo": "meetups/speakers/dihia_lanasri.jpg"
+            }
+          }
+        },
+        "presentation_2": {
+          "title": "A tour in the BIG DATA ZOO",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Ryad Zenine",
+              "link": "https://www.linkedin.com/in/ryadzenine/",
+              "position": "CTO BIG MAMA",
+              "photo": "meetups/speakers/riad_zenine.jpg"
+            }
+          }
+        },
+        "presentation_3": {
+          "title": "BI dans le domaine de Telecom",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Abdelmoumen Beddiaf",
+              "link": "https://www.linkedin.com/in/beddiaf-abdelmoumen-994b3326/",
+              "position": "Datawarehouse Specialist at Ooredoo Algeria",
+              "photo": "meetups/speakers/moumen_beddiaf.jpg"
+            }
+          }
+        },
+        "presentation_4": {
+          "title": "Big Data, la stratégie et la plateforme de Microsoft",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Massine DIB",
+              "link": "https://www.linkedin.com/in/massine-dib-2b711823/",
+              "position": "BI and Data Management Architect",
+              "photo": "meetups/speakers/massine_dib.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Advanced Javascript.",
+      "location": "Sylabs, Algiers",
+      "date": "March 25st 2017",
+      "presentations": {
+        "presentation_1": {
+          "title": "Intro to RxJS",
+          "level": "Beginner",
+          "slides": "https://speakerdeck.com/hcodex/rxjs-the-3-main-questions",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Houssem Yahiaoui",
+              "link": "https://www.linkedin.com/in/houssemyahiaoui",
+              "position": "Telerik Developer Expert and Freelance Javascript Developer",
+              "photo": "meetups/speakers/houssem_yahiaoui.jpg"
+            }
+          }
+        },
+        "presentation_2": {
+          "title": "ES6 Modules + Bundlers",
+          "level": "Intermediate",
+          "slides": "https://www.slideshare.net/ismnoiet/es6-modulesandbundlers",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Ismail Hamadi",
+              "link": "https://www.linkedin.com/in/ismailhamadi/",
+              "position": "Speaker, maintainer of nodeschool Algiers and web developer.",
+              "photo": "meetups/speakers/ismail_hamadi.jpg"
+            }
+          }
+        },
+        "presentation_3": {
+          "title": "ES6 new syntax overview",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Assem chelli",
+              "link": "https://www.linkedin.com/in/assemchelli/",
+              "position": "Software Project Manager.",
+              "photo": "meetups/speakers/assem_chelli.jpg"
+            }
+          }
+        },
+        "presentation_4": {
+          "title": "Live coding with nodejs",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Tedj Meabiou",
+              "link": "https://www.linkedin.com/in/tedj-meabiou-a6309548",
+              "position": "Co-founder of ioGrow.",
+              "photo": "meetups/speakers/tedj_meabiou.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Data Driven Development",
+      "location": "Sylabs, Algiers",
+      "date": "February 25st 2017",
+      "presentations": {
+        "presentation_1": {
+          "title": "The Growth Product Development",
+          "level": "Intermediate",
+          "slides": "https://www.slideshare.net/lehic/growth-product-development",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Mehdi Mehni",
+              "link": "https://www.linkedin.com/in/mehdimehni/en",
+              "position": "Growth Product Manager at Téo Taxi",
+              "photo": "meetups/speakers/mahni_mehdi.png"
+            }
+          }
+        },
+        "presentation_2": {
+          "title": "Welcome to Big Data world : From Big to Smart decision making",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Nesrine Zemirli",
+              "link": "https://www.linkedin.com/in/nesrinezemirli/en",
+              "position": "Consultant Data Scientist et Senior Lecturer - Collège Bois de Boulogne",
+              "photo": "meetups/speakers/zemirli_nesrine.png"
+            }
+          }
+        },
+        "presentation_3": {
+          "title": "Data tracking using Google Analytics",
+          "level": "Intermediate",
+          "slides": "https://www.slideshare.net/algiersmeetup/data-tracking-using-google-analytics",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Zidane Fathia",
+              "link": "https://www.linkedin.com/in/fathia-zidane-887b1027",
+              "position": "Chef de projet at DzMob",
+              "photo": "meetups/speakers/zidane_fathia.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Cloud & Virtualisation",
+      "location": "Sylabs, Algiers",
+      "date": "January 21st 2017",
+      "presentations": {
+        "presentation_1": {
+          "title": "Understanding the Salesforce Plateforme Architecture",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Omar Saidi",
+              "link": "https://www.linkedin.com/in/omar-saidi-39527349",
+              "position": "Salesforce Senior Consultant, Project Manager at Altius-services",
+              "photo": "meetups/speakers/omar_saidi.jpg"
+            }
+          }
+        },
+        "presentation_2": {
+          "title": "DevOps ? \"From idea to production\"",
+          "level": "Intermediate",
+          "slides": "https://www.slideshare.net/HabibMAALEM/devops-from-idea-to-production",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Habib Maalem",
+              "link": "https://dz.linkedin.com/in/habibmaalem",
+              "position": "Web Developer (Consultant)",
+              "photo": "meetups/speakers/habib_maalem.jpg"
+            }
+          }
+        },
+        "presentation_3": {
+          "title": "Introduction to AWS",
+          "level": "Beginners",
+          "slides": "https://www.slideshare.net/algiersmeetup/introduction-to-aws-74842116",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Mounir Kadri",
+              "link": "https://www.linkedin.com/in/mounir-kadri-b9989132",
+              "position": "Lead developer at Emploitic",
+              "photo": "meetups/speakers/mounir_kadri.jpg"
+            }
+          }
+        },
+        "presentation_4": {
+          "title": "Introduction to Docker",
+          "level": "Beginners",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Ramzi Debab",
+              "link": "https://ramzibot.wordpress.com/",
+              "position": "Senior Consultant at Ooredoo",
+              "photo": "meetups/speakers/ramzi_debab.jpg"
+            }
+          }
+        },
+        "presentation_5": {
+          "title": "De la virtualisation au cloud, enjeux et pratiques",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Bilal Kalem",
+              "link": "https://www.linkedin.com/in/bilalkalem",
+              "position": "CEO at integrateur open source (IOS)",
+              "photo": "meetups/speakers/bilal_kalem.jpg"
+            }
+          }
+        },
+        "presentation_6": {
+          "title": "Microsoft Azure for Developers",
+          "level": "Intermediate",
+          "slides": "https://www.slideshare.net/slideshow/embed_code/key/16yuI2Idq2Cnza",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Mohammed Amine Mostefai",
+              "link": "http://www.mostefaiamine.com/",
+              "position": "Enseignant / Chercheur at ESI",
+              "photo": "meetups/speakers/mohammed_amine_mostefai.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "SQL vs NoSQL Databases",
+      "location": "Algiers",
+      "date": "October 8th 2016",
+      "presentations": {
+        "presentation_1": {
+          "title": "Presentation of Oracle database products",
+          "level": "Beginners",
+          "slides": "http://www.slideshare.net/algiersmeetup/presentation-of-oracle-database-products",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Aguedal Yazid",
+              "link": "https://dz.linkedin.com/in/yazidaguedal",
+              "position": "Oracle DBA Consultant at Ooredoo",
+              "photo": "meetups/speakers/aguedal_yazid.jpg"
+            }
+          }
+        },
+        "presentation_3": {
+          "title": "Getting started with MongoDB",
+          "level": "Beginners",
+          "slides": "http://www.slideshare.net/algiersmeetup/introduction-to-mongodb-67199101",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Khabil Aicha",
+              "link": "https://www.linkedin.com/in/akhabil",
+              "position": "Responsable IT at Faculté des sciences de l'information d'Alger III",
+              "photo": "meetups/speakers/khabil_aicha.jpg"
+            }
+          }
+        },
+        "presentation_4": {
+          "title": "Building Realtime Apps with Firebase",
+          "level": "Intermediate",
+          "slides": "http://www.slideshare.net/algiersmeetup/introducing-firebase-by-google",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Houssem Yahiaoui",
+              "link": "https://twitter.com/_hcodex",
+              "position": "Etudiant / GDG Manager at USDB",
+              "photo": "meetups/speakers/houssem_yahiaoui.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Modern Web Development",
+      "location": "Algiers",
+      "date": "August 27th 2016",
+      "presentations": {
+        "presentation_1": {
+          "title": "Getting started with Angular 2",
+          "level": "Beginners",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Ahmed Siouani",
+              "link": "https://twitter.com/ahmedsiouani",
+              "position": "Lead Developer - TheFork (A TripAdvisor Company)",
+              "photo": "meetups/speakers/ahmed_siouani.jpg"
+            }
+          }
+        },
+        "presentation_3": {
+          "title": "Getting started with React and Redux",
+          "level": "Beginners",
+          "slides": "http://prez-redux.surge.sh/",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Riad Benguella",
+              "link": "https://twitter.com/riadbenguella",
+              "position": "Web Developer / CEO at Rizeway",
+              "photo": "meetups/speakers/riad_benguella.jpg"
+            }
+          }
+        },
+        "presentation_4": {
+          "title": "Progressive Web Apps",
+          "level": "Beginners",
+          "slides": "https://speakerdeck.com/hcodex/progressive-web-applcations",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Houssem Yahiaoui",
+              "link": "https://twitter.com/_hcodex",
+              "position": "Etudiant / GDG Manager at USDB",
+              "photo": "meetups/speakers/houssem_yahiaoui.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "App Monetization",
+      "location": "Algiers",
+      "date": "May 28th 2016",
+      "presentations": {
+        "presentation_1": {
+          "title": "Mobile financial Services",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Assia Meziani",
+              "link": "https://www.linkedin.com/in/assia-meziani-mba-ip-techwoman-b159721/",
+              "position": "MFS Technical Support & Project Management Senior Manager at Djezzy",
+              "photo": "meetups/speakers/assia_meziani.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Linux, Open Source & Security",
+      "location": "Algiers",
+      "date": "March 26th 2016",
+      "presentations": {
+        "presentation_1": {
+          "title": "Linux Containers (namespaces, filesystems, security, systemd, docker ...)",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Djalal Harouni",
+              "link": "http://opendz.org",
+              "position": "Freelancer (systemd, Linux kernel developer and others)",
+              "photo": "meetups/speakers/djalal_harouni.jpg"
+            }
+          }
+        },
+        "presentation_2": {
+          "title": "Dev Environment for Linux (Mainly KDE/Python)",
+          "level": "Beginners",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Assem Chelli",
+              "link": "http://www.assemchelli.com/",
+              "position": "Software Engineer at ioGrow",
+              "photo": "meetups/speakers/assem_chelli.jpg"
+            }
+          }
+        },
+        "presentation_3": {
+          "title": "Let's Encrypt! It’s free, automated, and open",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Omar Reda Allah Akham",
+              "link": "https://dz.linkedin.com/in/omar-akham-a08baa21",
+              "position": "IT Manager at MEGA Development Five",
+              "photo": "meetups/speakers/omar_reda_allah_akham.jpg"
+            }
+          }
+        },
+        "presentation_4": {
+          "title": "SQL Injection / LFI to root",
+          "level": "Advanced",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Noureddine Bellounis",
+              "link": "http://www.0x890.xyz",
+              "position": "Infographe at Eprint Algérie",
+              "photo": "meetups/speakers/noureddine_bellounis.jpg"
+            }
+          }
+        },
+        "presentation_5": {
+          "title": "PAAS, QQOQCCP ?",
+          "level": "Beginners",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Bouida Djelloul",
+              "link": "https://dz.linkedin.com/in/bouida",
+              "position": "CEO & Founder at HDConsulting",
+              "photo": "meetups/speakers/bouida_djelloul.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Hybrid Mobile App Development",
+      "location": "Algiers",
+      "date": "February 20th 2016",
+      "presentations": {
+        "presentation_1": {
+          "title": "Halide - a Language for Image Processing",
+          "level": "Beginners",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Riyadh Baghdadi",
+              "link": "http://people.csail.mit.edu/baghdadi/",
+              "position": "Researcher at MIT",
+              "photo": "meetups/speakers/riyadh_baghdadi.jpg"
+            }
+          }
+        },
+        "presentation_2": {
+          "title": "Be-Bound SDK",
+          "level": "Beginners",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Melvin Biamont",
+              "link": "https://www.linkedin.com/in/melvin-biamont-4478a0b2",
+              "position": "Lead Developer at Be-Bound",
+              "photo": "meetups/speakers/melvin_biamont.jpg"
+            }
+          }
+        },
+        "presentation_3": {
+          "title": "Initiation to Unity3D (World of games)",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Younes Sennadj",
+              "link": "https://dz.linkedin.com/in/younessennadj",
+              "position": "Student at ESI",
+              "photo": "meetups/speakers/younes_sennadj.jpg"
+            }
+          }
+        },
+        "presentation_4": {
+          "title": "Introduction to react-native",
+          "level": "Beginners",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Sidali Hallak",
+              "link": "https://www.linkedin.com/in/sidalihallak",
+              "position": "Software Engineer at Io Grow",
+              "photo": "meetups/speakers/sidali_hallak.jpg"
+            }
+          }
+        },
+        "presentation_5": {
+          "title": "Ionic and Hybrid Apps Story !",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Houssem Yahiaoui",
+              "link": "https://twitter.com/_hcodex",
+              "position": "Etudiant / GDG Manager at USDB",
+              "photo": "meetups/speakers/houssem_yahiaoui.jpg"
+            }
+          }
+        },
+        "presentation_6": {
+          "title": "Titanium,  native and cross-platform apps with Javascript",
+          "level": "Beginners",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Ayoub Zamouchi",
+              "link": "http://www.linkedin.com/in/ayoubzamouchi",
+              "position": "Mobile Developper at DzMob",
+              "photo": "meetups/speakers/ayoub_zamouchi.jpg"
+            }
+          }
+        },
+        "presentation_7": {
+          "title": "Phonegap in Action",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Mohamed El Amine Djedidi",
+              "link": "https://www.linkedin.com/in/amine-djedidi-01932446",
+              "position": "Web /Mobile Developer at FGS",
+              "photo": "meetups/speakers/mohamed_el_amine_djedidi.jpg"
+            }
+          }
+        },
+        "presentation_8": {
+          "title": "Be-Bound SDK (workshop)",
+          "level": "Intermediate",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Benmammari Abderrezak",
+              "link": "https://www.linkedin.com/in/benmammari-zakovitch-02a56687",
+              "position": "Android Developer at Be-Bound",
+              "photo": "meetups/speakers/benmammari_abderrezak.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Agility in Software Development",
+      "location": "Algiers",
+      "date": "January 23rd 2016",
+      "presentations": {
+        "presentation_1": {
+          "title": "Wedding Dresses & Agile Principles",
+          "level": "Beginners",
+          "slides": "http://fr.slideshare.net/abdeslemm/wedding-dresses-agile-priciples-58027758",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Abdeslem Menacere",
+              "link": "https://twitter.com/abdeslem_",
+              "position": "IT Manager at Emploitic",
+              "photo": "meetups/speakers/abdeslem_menacere.jpg"
+            }
+          }
+        },
+        "presentation_2": {
+          "title": "Scrum in Action",
+          "level": "Beginners",
+          "slides": "http://fr.slideshare.net/hacenfiras/scrum-in-action-algiers-tech-meetup",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Hacen Dadda",
+              "link": "https://www.linkedin.com/in/hacendadda",
+              "position": "CTO at HiveDigit",
+              "photo": "meetups/speakers/hacen_dadda.jpg"
+            }
+          }
+        },
+        "presentation_3": {
+          "title": "The product Owner Role",
+          "level": "Intermediates",
+          "slides": "http://fr.slideshare.net/AbdelazizKemouche/algiers-tech-meetup-product-owner-role-janvier-2016",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Zidane Fathia",
+              "link": "https://www.linkedin.com/in/fathia-zidane-887b1027",
+              "position": "Chef de projet web at Emploitic",
+              "photo": "meetups/speakers/zidane_fathia.jpg"
+            }
+          }
+        },
+        "presentation_4": {
+          "title": "The product Owner Role",
+          "level": "Beginners",
+          "slides": "http://fr.slideshare.net/AbdelazizKemouche/algiers-tech-meetup-product-owner-role-janvier-2016",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Abdelaziz Kemouche",
+              "link": "https://twitter.com/KmAziz",
+              "position": "Product Owner at Emploitic",
+              "photo": "meetups/speakers/abdelaziz_kemouche.jpg"
+            }
+          }
+        },
+        "presentation_5": {
+          "title": "REX, Agility at Icosnet",
+          "level": "Intermediates",
+          "slides": "http://www.slideshare.net/algiersmeetup/rex-agility-at-icosnet",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Billel Loubar",
+              "link": "https://www.linkedin.com/in/loubarbillel",
+              "position": "Directeur technique at Icosnet",
+              "photo": "meetups/speakers/billel_loubar.jpg"
+            }
+          }
+        },
+        "presentation_6": {
+          "title": "Agile estimations techniques (Workshop)",
+          "level": "Intermediates",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Slimane Louanas",
+              "link": "https://dz.linkedin.com/in/louanas",
+              "position": "web developer & Scrum Master at Emploitic",
+              "photo": "meetups/speakers/slimane_louanas.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "PHP Frameworks",
+      "location": "Algiers",
+      "date": "December 26th 2015",
+      "presentations": {
+        "presentation_1": {
+          "title": "Symfony2 Framework",
+          "slides": "http://ahsio.com/algiers-meetup-5-symfony/",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Ahmed Siouani",
+              "link": "https://twitter.com/ahmedsiouani",
+              "position": "Lead Developer at TheFork (A TripAdvisor Company)",
+              "photo": "meetups/speakers/ahmed_siouani.jpg"
+            }
+          }
+        },
+        "presentation_2": {
+          "title": "Laravel Framework",
+          "slides": "http://slides.com/kouceylahadji-1/laravel#/",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Kouceyla Hadji",
+              "link": "https://dz.linkedin.com/in/kouceyla-hadji-908b3134",
+              "position": "Consultant, Trainer and Freelancer",
+              "photo": "meetups/speakers/kouceyla_hadji.jpg"
+            }
+          }
+        },
+        "presentation_3": {
+          "title": "Yii Framework",
+          "slides": "http://cherifgsoul.github.io/yii2-slides/",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Cherif Bouchelaghem",
+              "link": "https://twitter.com/Cherif_b",
+              "position": "Senior Web Developer at Allegorie.tv",
+              "photo": "meetups/speakers/cherif_bouchelaghem.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Android / Arduino",
+      "location": "Algiers",
+      "date": "November 7th 2015",
+      "presentations": {
+        "presentation_1": {
+          "title": "Overview of Telco Network",
+          "slides": "http://www.slideshare.net/algiersmeetup/overview-of-telecommunication-networks",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Moussaoui Karim",
+              "link": "https://www.linkedin.com/profile/view?id=93034643",
+              "position": "Core Network Engineer at Ota algeria",
+              "photo": "meetups/speakers/moussaoui_karim.jpg"
+            }
+          }
+        },
+        "presentation_2": {
+          "title": "Introduction to Arduino",
+          "slides": "http://www.slideshare.net/algiersmeetup/introduction-to-arduino-55922155",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Meftah Lakhdar",
+              "link": "https://dz.linkedin.com/in/lakhdarmeftah",
+              "position": "Student at ESI",
+              "photo": "meetups/speakers/meftah_lakhdar.jpg"
+            }
+          }
+        },
+        "presentation_3": {
+          "title": "Material Design Overview",
+          "slides": "http://www.slideshare.net/algiersmeetup/material-design-for-android-55921991",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Hichem Acher",
+              "link": "https://dz.linkedin.com/pub/hichem-acher/59/b29/137",
+              "position": "Mobile developer at ioGrow",
+              "photo": "meetups/speakers/hichem_acher.jpg"
+            }
+          }
+        },
+        "presentation_4": {
+          "title": "Material Design Overview",
+          "slides": "http://www.slideshare.net/algiersmeetup/material-design-for-android-55921991",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Ilyas Hanagria",
+              "link": "https://www.facebook.com/ilyas.hanagria",
+              "position": "Android Developer at ioGrow",
+              "photo": "meetups/speakers/ilyas_hanagria.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "JavaScript Frameworks & Front-End Architecture",
+      "location": "Algiers",
+      "date": "October 3rd 2015",
+      "presentations": {
+        "presentation_1": {
+          "title": "The future of Javascript",
+          "slides": "http://www.slideshare.net/algiersmeetup/the-future-of-javascript-53660387",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Samir Rouabhi",
+              "link": "https://www.linkedin.com/in/rouabhi",
+              "position": "JavaScript Expert at Cloudestin Business Software",
+              "photo": "meetups/speakers/samir_rouabhi.jpg"
+            }
+          }
+        },
+        "presentation_3": {
+          "title": "5 Powerful & Non-popular Frameworks",
+          "demo": "https://github.com/cherifGsoul/jsmeetup",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Cherif Bouchelaghem",
+              "link": "https://twitter.com/Cherif_b",
+              "position": "Senior Web Developer at NetBeOpen",
+              "photo": "meetups/speakers/cherif_bouchelaghem.jpg"
+            }
+          }
+        },
+        "presentation_4": {
+          "title": "Ember.js",
+          "slides": "http://g13013.github.io/talks/ember/algiers_meetup",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Aboubakr Gasmi",
+              "link": "https://twitter.com/g13013",
+              "position": "Lead Front Developer at Emploitic",
+              "photo": "meetups/speakers/aboubakr_gasmi.jpg"
+            }
+          }
+        },
+        "presentation_5": {
+          "title": "React & React Native",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Tedj Meabiou",
+              "link": "https://www.linkedin.com/pub/tedj-meabiou/48/95/a63",
+              "position": "Web / Cloud Developer at IoGrow",
+              "photo": "meetups/speakers/tedj_meabiou.jpg"
+            }
+          }
+        },
+        "presentation_6": {
+          "title": "AngularJS",
+          "demo": "https://github.com/Moncef12/ng_talk_app_demo",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Moncef Hassein-Bey",
+              "link": "https://twitter.com/moncef_hbey",
+              "position": "Web Developer at Service Factory",
+              "photo": "meetups/speakers/moncef_hassein-bey.jpg"
+            }
+          }
+        },
+        "presentation_7": {
+          "title": "Backbone.js & Marionette.js",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Tarik Zakaria Benmerar",
+              "link": "https://twitter.com/tarikbenmerar",
+              "position": "Web Developer at Acigna",
+              "photo": "meetups/speakers/tarik_zakaria_benmerar.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Productivity in software development",
+      "location": "Algiers",
+      "date": "August 22nd 2015",
+      "presentations": {
+        "presentation_1": {
+          "title": "Getting the \"right\" things done for PMs/Team leads",
+          "slides": "http://www.slideshare.net/algiersmeetup/getting-the-right-things-done-for-pms-and-team-leads",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Tahar Ouhrouche",
+              "link": "https://twitter.com/touhrouche",
+              "position": "Project Manager & Certified Scrum Master (Schlumberger)",
+              "additional_info": "via Hangout",
+              "photo": "meetups/speakers/tahar_ouhrouche.jpg"
+            }
+          }
+        },
+        "presentation_2": {
+          "title": "Agile Philosophy & Tasks Management",
+          "slides": "http://www.slideshare.net/algiersmeetup/agile-spirit-52006535",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Abdeslem Menacere",
+              "link": "https://twitter.com/abdeslem_",
+              "position": "IT Manager, Emploitic",
+              "photo": "meetups/speakers/abdeslem_menacere.jpg"
+            }
+          }
+        },
+        "presentation_3": {
+          "title": "Code Versioning",
+          "slides": "http://ahsio.com/code-versioning/index.html#/",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Ahmed Siouani",
+              "link": "https://twitter.com/ahmedsiouani",
+              "position": "Lead Developer - TheFork (A TripAdvisor Company)",
+              "photo": "meetups/speakers/ahmed_siouani.jpg"
+            }
+          }
+        },
+        "presentation_4": {
+          "title": "OOP & design patterns",
+          "slides": "http://www.slideshare.net/algiersmeetup/oop-and-design-patterns",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Tarik Zakaria Benmerar",
+              "link": "https://twitter.com/tarikbenmerar",
+              "position": "CEO - Manager - Acigna",
+              "photo": "meetups/speakers/tarik_zakaria_benmerar.jpg"
+            }
+          }
+        },
+        "presentation_5": {
+          "title": "Web hosting & Webmastering",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Mohamed Lamine Belbachir",
+              "link": "https://www.linkedin.com/pub/mohamed-lamine-belbachir/1b/a74/89",
+              "position": "CEO - Manager - Ayrade",
+              "photo": "meetups/speakers/mohamed_lamine_belbachir.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "title": "Android Meetup",
+      "location": "Algiers",
+      "date": "July 21st 2015",
+      "presentations": {
+        "presentation_1": {
+          "title": "Android Developer at Realm",
+          "speakers": {
+            "speaker_1": {
+              "fullname": "Nabil Hachicha",
+              "link": "https://twitter.com/nabil_hachicha",
+              "position": "Android Developer at Realm",
+              "description": "Nabil is an avid Android fan who enjoys speaking at community-oriented conferences like Droidcon & GDG. His work as the developer behind SnappyDB helped him hone his open source development skills. He previously worked on apps in France & UK for companies like Renault, Bouygues-Telecom, Michelin, NewsUK, Unilever, and Go-Ahead. Currently, Nabil is an Android developer at Realm, replacement for SQLite & Core Data",
+              "photo": "meetups/speakers/nabil_hachicha.jpg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
