@@ -14,7 +14,7 @@ class Factory {
      * @param  string $dataType
      * @return ATM\Parser\AbstractParser
      */
-    public function makeParser($dataType) {
+    public static function makeParser($dataType) {
         switch ($dataType) {
             case 'yaml': return new YamlParser; break;
             case 'yml': return new YamlParser; break;
