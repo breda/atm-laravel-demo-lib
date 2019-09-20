@@ -1,5 +1,5 @@
 {
-    "name": "breda/atm-latest",
+    "name": "breda/atm-laravel-demo-lib",
     "description": "Demo",
     "type": "library",
     "license": "MIT",
