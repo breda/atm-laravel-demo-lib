@@ -54,4 +54,13 @@ class Meetup {
             'presentations' => $this->presentations,
         ];
     }
+
+    /**
+     * To string, just return JSON
+     * 
+     * @return string
+     */
+    public function __toString() {
+        return json_encode($this->toArray());
+    }
 }
